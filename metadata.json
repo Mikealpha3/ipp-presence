@@ -1,0 +1,6 @@
+{
+  "name": "IPP Présence",
+  "description": "Gestion de présence et d'assiduité des professeurs - Institution Petit-Prince de Pignon",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
